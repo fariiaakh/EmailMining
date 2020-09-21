@@ -1,2 +1,2 @@
-Machine-Learning-in-Python
-Machine Learning projects coded using Python
+# Machine-Learning-in-Python
+## Machine Learning projects coded using Python
