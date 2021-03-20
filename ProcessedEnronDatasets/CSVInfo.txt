@@ -1,1 +1,3 @@
-
+rantraindat.csv contains randomized training data for spam detection. there are 1000 emails in the dataset, 649 of them are training and 351 of them are not spam. These were manually selected
+spamfreeenron.csv contains emails with much of the commercial emails, newsletters and company announcements removed. Our algorithm looked at certain domain names and subject line keywords to look for spam. We may have missed some spam emails if they fell outside our criteria. 
+email_clean.csv contains all the enron emails (around 500,000 observations) with all the metadata structured into different columns
