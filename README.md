@@ -10,6 +10,8 @@ The machine learning algorithms displayed in the MLClassification Algorithms not
 As part of this report, I also ran a network analysis on the most frequent email recipients. the graph and the code can be found in the 'EnronEmployeeNetworkGraph' file
 A full report of our findings can be found here: https://fariakh973079136.files.wordpress.com/2021/01/finalml-project-report-1.pdf <br>
 
-The file titled 'Email Thread Processing' contains all the preprocessing functions used to get the email files into a usable state for text analysis. However, the notebook doesn't seem to render so unless you download the notebook, you cannot see the functions and their outputs. If you are only interested in seeing the functions, please click on the 'EmailProcessingCode' Python file.
+The file titled 'Email Thread Processing' contains all the preprocessing functions used to get the email files into a usable state for text analysis. However, the notebook doesn't seem to render so unless you download the notebook, you cannot see the functions and their outputs. If you are only interested in seeing the functions, please click on the 'EmailProcessingCode' Python file. <br>
+\
+The file labelled 'NLPCode' contains the code used to preprocess email bodies into structured text. Includes code for tokenization, lemmatization, POS tagging and POS-tree parsing
 
 
