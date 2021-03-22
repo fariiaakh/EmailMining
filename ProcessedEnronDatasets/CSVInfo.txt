@@ -1,5 +1,7 @@
 rantraindat.csv contains randomized training data for spam detection. there are 1000 emails in the dataset, 649 of them are training and 351 of them are not spam. These were manually selected
 
+thread10body.csv contains the email body of 1 email thread from Vince Kaminski. The columns include the threadID (which was found using a function to aggregate similar subjects), the raw email body and tokenized and chunked (according to specific POS tags) versions of the email body (CleanBody and CleanBody2)
+
 The following datasets were too big to upload onto github but if you would like access, please email me at fariakh@outlook.com and I can send you a download link
 
 * spamfreeenron.csv contains emails with much of the commercial emails, newsletters and company announcements removed. Our function looked at certain domain names and subject line keywords to look for spam. We may have missed some spam emails if they fell outside our criteria. There are around 464,000 observations in this dataset
