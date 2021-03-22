@@ -61,6 +61,7 @@ patternVC = r'''
 VP: {<.*>+}          # Chunk everything
    }<NNP|CD>+{       #chink only proper nouns and cardinal digits
 '''
+patternV3 = 'VP: {<VB.?>*<MD.?>*<NN>*<JJ.?>*<RB.?>*}'  # all forms of verbs, nouns, adjectives and adverbs
 # predefine a pattern as variable before inputting into function
 
 
